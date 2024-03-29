@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+pydantic = "*"
+alembic = "*"
+graphene = "*"
+graphene-pydantic = "*"
+psycopg2-binary = "*"
+uvicorn = "*"
+python-dotenv = "*"
+databases = "*"
+asyncpg = "*"
+importlib-resources = "*"
+starlette-graphene3 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
