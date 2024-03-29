@@ -1,4 +1,4 @@
-# Fastapi with GraphQL Assignment
+# Fastapi with GraphQL
 
 ## For Build
 Run the below command.
